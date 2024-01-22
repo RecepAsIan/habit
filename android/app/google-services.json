@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "615613822225",
+    "project_id": "habitv2-f3802",
+    "storage_bucket": "habitv2-f3802.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615613822225:android:ce03fe135ffcba7014c8b0",
+        "android_client_info": {
+          "package_name": "com.example.habits_second"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWCyJWGdyMYqByBhopqD_ZuX1BrbWjPTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
